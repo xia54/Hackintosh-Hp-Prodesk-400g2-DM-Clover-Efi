@@ -84,4 +84,4 @@ Clover 驱动包含：
 ![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%A1%AC%E8%A7%A3@2x.png)
 ![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%8A%82%E8%83%BD@2x.png)
 ![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%93%9D%E7%89%99@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/系统截图/音频@2x.png)
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA@2x.png?raw=true)
