@@ -73,15 +73,17 @@ Clover 驱动包含：
 
 
 ## 系统截图
-
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/HWMonitorSMC@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/USB@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/USB%E5%AE%9A%E5%88%B6@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/WIFI@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%8D%A1@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%8F%98%E9%A2%91@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%A1%AC%E8%A7%A3@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%8A%82%E8%83%BD@2x.png)
-![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%93%9D%E7%89%99@2x.png)
-![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA@2x.png?raw=true)
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%402x.png)关于本机
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E7%A1%AC%E4%BB%B6%402x.png)硬件
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/USB%402x.png)usb
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/USB%E5%AE%9A%E5%88%B6%402x.png)usb定制
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%8D%A1%402x.png)以太网卡
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E8%93%9D%E7%89%99%402x.png)蓝牙
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E9%9F%B3%E9%A2%91%402x.png)音频
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/WIFI%402x.png)wifi
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%9B%BE%E5%BD%A2%E5%8D%A1:%E6%98%BE%E7%A4%BA%E5%99%A8%402x.png)图形卡
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E8%8A%82%E8%83%BD%402x.png)节能
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E6%98%BE%E7%A4%BA%E5%99%A8%E7%BC%A9%E6%94%BE%402x.png)显示器缩放
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%8F%98%E9%A2%91%402x.png)变频
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E7%A1%AC%E8%A7%A3%402x.png)硬解
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/HWMonitorSMC%402x.png)HWMonitorSMC
