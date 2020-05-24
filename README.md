@@ -6,7 +6,7 @@
 |-------------------:|:----------------------------------------|
 |               主板 | HP PRODESK 400G2 DM                       |
 |                CPU | Intel Core i5-6400                      |
-|               显卡 | ntel HD Graphics 530 1536 MB   |
+|               显卡 | Intel HD Graphics 530 1536 MB   |
 |              硬盘1 | 三星 PM961 256G M2 NVMe                 |
 |              硬盘2 | 日立 5400转 500G SATA                |
 |               内存1 | 玖合 DDR4 2666Mhz 16G  |
