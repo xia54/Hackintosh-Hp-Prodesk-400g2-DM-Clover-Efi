@@ -71,3 +71,17 @@ Clover 驱动包含：
 
 如果你的配置跟我上面配置相同或兼容，那么你可以直接使用该 EFI 进行安装。安装前请注意，一定要用 Clover Configurator 重新生成并替换 SMBIOS 部分的内容，否则会因为机器有同一个硬件 ID 而被苹果封锁。生成时，请选择 `Mac mini8,1` 机型。
 
+
+## 系统截图
+
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/HWMonitorSMC@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/USB@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/USB%E5%AE%9A%E5%88%B6@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/WIFI@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%8D%A1@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%8F%98%E9%A2%91@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%A1%AC%E8%A7%A3@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%8A%82%E8%83%BD@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%93%9D%E7%89%99@2x.png)
+![avatar](https://gitee.com/xiaojiangshan/hp-prodisk-400g2-dm-efi-for-clover/blob/master/系统截图/音频@2x.png)
