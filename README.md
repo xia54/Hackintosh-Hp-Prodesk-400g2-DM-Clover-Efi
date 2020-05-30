@@ -17,6 +17,10 @@
 |            显示器 | 27寸 4K 宏基显示器 H277HK          |
 
 
+## 折腾日志
+
+2020年5月30日：测试更新15.5，无痛升级。更新关于本机截图。
+
 ## 更新注意事项
 
 更新 EFI 之后，第一次进系统最好是带 `-v` 参数启动，否则可能会出现禁止符号，无法启动。如果出现这种情况下，再次启动时，加上 `-v` 参数就可以了。进入系统之后，最好使用 `Hackintool` 重建一下驱动缓存。
@@ -73,6 +77,6 @@ Clover 驱动包含：
 
 
 ## 系统截图
-![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%402x.png)关于本机
+![avatar](https://github.com/ylen0l/Hackintosh-Hp-Prodesk-400g2-DM-Clover-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA20200530%E5%AE%9E%E6%B5%8B15.5%402x.png)关于本机
 
 加图片打开太慢了，就留了关于本机，其他截图去`系统状态截图`里面打开看吧
